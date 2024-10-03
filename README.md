@@ -7,7 +7,7 @@ This project involves the development of a database system for a gas station. Th
 ## Project Components
 
 ### Entity Relationship Diagram (ERD)
-
+![ERD](ERD.png)
 
 ### Relational Schema
 
